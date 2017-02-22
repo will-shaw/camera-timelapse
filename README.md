@@ -1,11 +1,11 @@
 # Timelapse Rail Controller 
 ---
 
-Stepper pins: 8, 9, 10, 11  
+Stepper pins: **8, 9, 10, 11**    
   
-Bump Switch pin: A0  
+Bump Switch pin: **A0**  
   
-Camera Trigger pin: 3  
+Camera Trigger pin: **3**    
   
 Formula for calculating total delay time:  
 (stabilisation) + (step delay * 8) + (shoot delay)  
