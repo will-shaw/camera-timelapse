@@ -12,9 +12,10 @@ Formula for calculating total delay time:
     (1000)      + (step_delay * 8) +     (200)  
   
 # Command Inputs:
+---
 
-| Argument | Function |
-|:-:|:-:|
+| **Argument** | **Function** |
+|-:|:-|
 | < | Step Backward |
 | > | Step Forward |
 | a | Move to Start (requries bump stop) |
