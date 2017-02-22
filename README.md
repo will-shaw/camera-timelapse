@@ -15,7 +15,7 @@ Formula for calculating total delay time:
 ---
 
 | **Argument** | **Function** |
-|-:|:-|
+|--:|:--|
 | < | Step Backward |
 | > | Step Forward |
 | a | Move to Start (requries bump stop) |
