@@ -22,6 +22,6 @@ Formula for calculating total delay time:
 | p | Toggle Pause |
 | r | Toggle Rotation |
 | s | Start/Stop (stop resets frame and step counts) (requires bump stop) |
-| m<step size> | Sets movement (step) size to the number given |
-| d<delay time> | Sets delay between moves/shots |
+| m`<step size>` | Sets movement (step) size to the number given |
+| d`<delay time>` | Sets delay between moves/shots |
 | r<(1 or 0)>   | Force rotation direction. 1 = clockwise |
