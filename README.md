@@ -8,8 +8,8 @@ Bump Switch pin: **A0**
 Camera Trigger pin: **3**    
   
 Formula for calculating total delay time:  
-(stabilisation) + (step delay * 8) + (shoot delay)  
-    (1000)      + (step_delay * 8) +     (200)  
+`(stabilisation) + (step delay * 8) + (shoot delay)` 
+`    (1000)      + (step_delay * 8) +     (200)    `
   
 # Command Inputs:
 ---
